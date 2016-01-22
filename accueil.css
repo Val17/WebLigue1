@@ -1,0 +1,18 @@
+body
+{
+	font-family: 'Arial', sansserif;
+	background-color: #f3f3f3;
+}
+
+
+.menu
+{
+	text-align: center;
+}
+
+
+.menu li 
+{
+	display: inline;
+	padding: 0 10px 0 10px; /*marge interieure; haut droite bas gauche*/
+}
